@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Talha Erkan  
+**Management Information Systems (MIS) Student | Interested in Data, Technology & Business**
 
-<!--
-**Wattermell/Wattermell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 3rd year Management Information Systems student at Doğuş University  
+- 📊 Interested in data analysis, business technologies, and software development  
+- 💼 Preparing for international certificates and improving my tech skills  
+- 🌱 Currently learning: Python, SQL, Excel, Data Analytics  
+- 📫 How to reach me: talhaerkan@example.com (kendi mailini yaz)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Skills & Tools
+- **Programming:** Python (Beginner), SQL (Beginner)  
+- **Tools:** Excel, Power BI, Git & GitHub  
+- **Interests:** Data Analysis, Automation, Business Processes
+
+---
+
+### 📚 Currently Working On
+- Building small beginner-friendly projects  
+- Preparing for international certificates (Google, IBM, Meta)
+
+---
+
+### 🔗 Social Links
+- **LinkedIn:** (profil linkini koy)  
 -->
