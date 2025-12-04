@@ -6,7 +6,7 @@
 - 📊 Interested in data analysis, business technologies, and software development  
 - 💼 Preparing for international certificates and improving my tech skills  
 - 🌱 Currently learning: Python, SQL, Excel, Data Analytics  
-- 📫 How to reach me: talhaerkan@example.com (kendi mailini yaz)
+- 📫 How to reach me: erkant282@gmail.com
 
 ---
 
@@ -24,5 +24,5 @@
 ---
 
 ### 🔗 Social Links
-- **LinkedIn:** (profil linkini koy)  
+- **LinkedIn:**  www.linkedin.com/in/talha-erkan-001243218
 -->
